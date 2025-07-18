@@ -12,7 +12,9 @@ Inspired by [https://github.com/riteofthearcane/AutoRegister](https://github.com
 
 ## Install `terminal-notifier`
 
-The repository can be found at [https://github.com/julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier).
+`terminal-notifier` is a CLI used to send messages through Mac's Notification Center. This is used in conjunction with Python package `pync` to allow the bot to properly send notifications.
+
+For further information, repository can be found at [https://github.com/julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier).
 
 Install:
 
