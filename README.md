@@ -4,7 +4,7 @@ Need somebody to help watch courses for you? Of course!
 
 A handy bot to help you with all your course registration worries. Built for UIUC's course registration system (Banner / Student Self-Service).
 
-Notifications are sent through Mac's Notification Center and Slack. Currently, the bot only watches courses for you instead of auto-registering for them, but future updates can fix this.
+Notifications are sent through Mac's Notification Center and Slack. The bot only watches courses for you instead of auto-registering for them, but future updates can fix this.
 
 Inspired by [https://github.com/riteofthearcane/AutoRegister](https://github.com/riteofthearcane/AutoRegister).
 
@@ -27,8 +27,6 @@ echo 'Piped Message Data!' | terminal-notifier -sound default
 ```
 
 Make sure to turn on Notifications for `terminal-notifier` in Settings App.
-
-$ echo 'Piped Message Data!' | terminal-notifier -sound default
 
 ## Create Slack webhook
 
